@@ -3,5 +3,5 @@
 	$test1 = getenv('VAR2');	
 	#echo $db;
 echo $test1;
-echo "Ver 1.0"
+echo "</br>Ver 1."
 ?>
